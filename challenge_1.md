@@ -5,8 +5,8 @@ Jedesmal, wenn ein User ein Produkt in einem der Otto Group online Shops anschau
 in der Tabelle `it_cs_2023_display_product_details` (7,194,934,727 Zeilen) bzw. `it_cs_2023_display_product_list` (169,464,595,684  Zeilen)
 erzeugt.
 
-Berechne für alle Produkte die Anzahl der eindeutigen Nutzer, die sich das Produkt auf einer Detailseite/Produktliste am 01.05.2023 und
-02.05.2023 angeschaut haben.
+Berechne für alle Produkte die Anzahl der eindeutigen Nutzer, die sich das Produkt auf einer Detailseite/Produktliste am 04.04.2023 und
+05.03.2023 angeschaut haben.
 
 
 So könnte der Output einer Lösung aussehen:
